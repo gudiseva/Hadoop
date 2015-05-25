@@ -1,0 +1,15 @@
+naveen,hadoop,10000
+fathima,java,2000
+abraham,testing,1000
+harish,msbi,5000
+venugopal,c++,7000
+naresh,hadoop,15000
+farhat,java,2500
+ibrahim,testing,1500
+hemesh,msbi,5500
+ramgopal,c++,7500
+neeraja,hadoop,8000
+fazhal,java,5000
+ahilya,testing,600
+homesh,msbi,9000
+haragopal,c++,3000
